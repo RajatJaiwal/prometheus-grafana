@@ -1,0 +1,15 @@
+# binaries
+minikube*
+kubectl
+*.tar.gz
+*.zip
+
+# OS files
+.DS_Store
+
+# editor
+.vscode/
+.idea/
+
+# logs
+*.log
